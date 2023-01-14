@@ -1,2 +1,2 @@
 # HTML_Site
-Link to the site: https://clever-rugelach-3d6813.netlify.app/index.html 
+Link to the site: https://vicmoon.github.io/HTML_Site/
